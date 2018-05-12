@@ -1,0 +1,26 @@
+_repo: A-Boy-Trooper-With-SheridanFirst-Massachusetts-Cavalry_45024
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45024-h/images/coverm.jpg
+creator:
+  author:
+    agent_name: Allen, Stanton P.
+    birthdate: 1849
+    deathdate: 1901
+    gutenberg_agent_id: '43039'
+    url: http://www.gutenberg.org/2009/agents/43039
+description: Illustrated by the author.
+gutenberg_issued: '2014-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+title: A Boy Trooper with Sheridan
+url: http://www.gutenberg.org/ebooks/45024
